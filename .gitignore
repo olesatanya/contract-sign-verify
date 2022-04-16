@@ -1,0 +1,15 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn.lock
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+# Dependency directories
+node_modules/
+jspm_packages/
+.vscode/
+.env
+.env.test
+.env.*
